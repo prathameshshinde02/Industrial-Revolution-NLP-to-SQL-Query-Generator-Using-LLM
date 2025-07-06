@@ -1,0 +1,11 @@
+date,product_id,name,category,price,quantity,status,notes
+2025-02-14 23:59:59,1001,Laptop Pro,Electronics,1299.99,1,active,good product
+2025-02-14 22:45:00,1002,Mouse pad,Accessories,19.99,2,pending,Unknown
+2025-02-15 00:15:30,1003,Keyboard,Electronics,89.99,2,active,Unknown
+2025-02-15 01:30:00,1004,Monitor 4K,Electronics,499.99,1,active,excellent display
+2025-02-15 02:00:00,1005,USB Cable,Accessories,15.99,3,active,average quality
+2025-02-15 02:15:00,1006,Wireless Mouse,Accessories,29.99,2,active,Unknown
+2025-02-15 03:00:00,1007,Laptop Pro,Electronics,1299.99,2,pending,returned item
+2025-02-15 03:30:00,1008,Monitor 4K,Electronics,499.99,1,inactive,Unknown
+2025-02-15 04:00:00,1009,Unknown,Electronics,89.99,2,active,good
+2025-02-15 05:00:00,1010,Mouse pad,Accessories,19.99,5,active,Unknown

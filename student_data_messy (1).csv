@@ -1,0 +1,21 @@
+NAME,CLASS,SECTION,MARKS,ATTENDANCE,SUBMISSION_DATE,GRADE_POINTS,EMAIL,STATUS,STUDENT_ID
+John Smith,Data Science,A,85,92.5,2025-01-15,3.8,john.smith@email.com,Active,DS001
+Emily Brown,Machine Learning,B,92,88.0,2025-01-15,4.0,emily.b@email.com,Active,ML001
+Emily Brown,Machine Learning,B,92,88.0,2025-01-15,4.0,emily.b@email.com,Active,ML001
+Bob Wilson,,A,78,null,2025-01-20,3.2,bob.w@email.com,Inactive,DS002
+Alice Cooper,Deep Learning,C,,95.5,2025-01-18,null,alice.c@email.com,Active,DL001
+Tom Harris,Machine Learning,B,88,91.0,2025-01-16,3.9,tom.h@email.com,Active,ML002
+Sarah Jones,Data Science,A,91,87.5,2025-01-14,4.1,sarah.j@email.com,Active,DS003
+Mike Wilson,Deep Learning,,84,89.0,null,3.5,mike.w@email.com,On Leave,DL002
+Lisa Chen,Machine Learning,B,89,93.0,2025-01-17,3.8,lisa.c@email.com,Active,ML003
+David Kim,Data Science,A,null,90.5,2025-01-19,,david.k@email.com,Active,DS004
+Rachel Green,Deep Learning,C,87,85.5,2025-01-21,3.7,rachel@email.com,Active,DL003
+James Wilson,Machine Learning,B,150,98.0,2025-01-22,4.5,james.w@email.com,Active,ML004
+Emma Davis,Data Science,A,86,86.5,2025-01-15,3.6,emma.d@email.com,Active,DS005
+Michael Scott,Deep Learning,C,82,null,2025-01-18,3.3,m.scott@email.com,Inactive,DL004
+Kelly Johnson,Machine Learning,B,94,94.5,2025-01-20,4.2,kelly.j@email.com,Active,ML005
+Peter Parker,Data Science,A,88,89.5,2025-01-16,3.9,peter.p@email.com,Active,DS006
+Jane Doe,,C,77,82.5,,3.1,jane.d@email.com,On Leave,ML006
+Robert Miller,Data Science,A,NULL,91.5,2025-01-17,3.8,robert.m@email.com,Active,DS007
+Susan White,Machine Learning,B,90,null,2025-01-19,4.0,susan.w@email.com,Active,ML007
+Kevin Black,Deep Learning,C,83,88.5,2025-01-21,null,kevin.b@email.com,Active,DL005
